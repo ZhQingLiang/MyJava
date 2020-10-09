@@ -7,6 +7,7 @@ public class T0 {
     public static void main(String[] args) {
         String a = "123";
         String b = a;
+        int c = 0;
         b = "q";
         System.out.println(a);
     }
